@@ -7,7 +7,7 @@ This is a porfolio website for displaying the services that coder academy provid
 
 ## Header
 Header has logo and name of the company along with the navigation bar. Here is the code for the header we have:
-'''html
+```html
     <header>
         <div class="logo-name">
             <a href="./index.html">
@@ -24,12 +24,11 @@ Header has logo and name of the company along with the navigation bar. Here is t
             <a href="./pages/contact.html">Contact</a>
         </nav>
     </header>
-'''
+```
 
-...
 ### Footer
 Footer has social media links, contact number and address. Here is the code we have:
-'''html
+```html
  <footer>
         <div class="social-media">
             <a href=""><i class="fa-brands fa-github"></i></a>
@@ -41,14 +40,14 @@ Footer has social media links, contact number and address. Here is the code we h
             <p>Address: 1 Street St, Suburb</p>
         </div>
 </footer>
-'''
+```
 
 
 ## Pages
 
 ### Home
 Home page for now just displays some lorem ipsum text. Here is the code that we have used.
-'''html
+```html
 <main>
         <section>
             <div class="jumbotron">
@@ -61,4 +60,19 @@ Home page for now just displays some lorem ipsum text. Here is the code that we 
             </div>
         </section>
     </main>
-'''
+```
+# Styling
+
+## Components
+These will contain the styling of individual components which are as following at the moment:
+-Header
+-Footer
+
+...
+
+## Defaults
+This will contain the default variables such as colors, breakpoints, etc.
+
+...
+## Pages
+This will contain the styling of each individual HTML pages.
