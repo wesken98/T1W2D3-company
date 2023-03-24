@@ -69,6 +69,10 @@ Services page displays the list of services we provide.
 ### Contact
 Contact page can be used to contact the company.
 
+...
+### About
+About page is about us.
+
 # Styling
 
 ## Components
